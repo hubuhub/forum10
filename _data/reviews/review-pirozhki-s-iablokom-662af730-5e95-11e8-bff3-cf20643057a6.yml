@@ -1,0 +1,10 @@
+_id: 662af730-5e95-11e8-bff3-cf20643057a6
+name: Иван
+comment: >-
+  Если нужно купить пирожков с яблоком, то делай это только тут - <a
+  href="http://mail.ru">http://mail.ru</a>.
+product: pirozhki-s-iablokom
+date: '2018-05-23T14:27:19.534Z'
+timestamp: 1527085639
+tags:
+  - comment-subscription
